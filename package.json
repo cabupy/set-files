@@ -1,0 +1,24 @@
+{
+  "name": "set-files",
+  "version": "1.0.0",
+  "description": "Procesar archivos de RUC de la SET",
+  "main": "procesador.js",
+  "scripts": {
+    "test": "node procesador.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cabupy/set-files.git"
+  },
+  "keywords": [
+    "ruc",
+    "set",
+    "node"
+  ],
+  "author": "Cabu Vallejos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cabupy/set-files/issues"
+  },
+  "homepage": "https://github.com/cabupy/set-files#readme"
+}

@@ -1,0 +1,25 @@
+psql:files/sql/ruc1.sql:473: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(1018761).
+psql:files/sql/ruc1.sql:2148: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(1081201).
+psql:files/sql/ruc1.sql:6193: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(1257261).
+psql:files/sql/ruc1.sql:28587: ERROR:  no existe la columna «nan»
+LÍNEA 1: ...T INTO public.contribuyente VALUES ( 238851, 'M', NaN, '0' )...
+                                                              ^
+psql:files/sql/ruc1.sql:30197: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(2475451).
+psql:files/sql/ruc1.sql:82721: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(572361).
+psql:files/sql/ruc1.sql:82915: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(575441).
+psql:files/sql/ruc1.sql:87247: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(654081).
+psql:files/sql/ruc1.sql:90361: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(728461).
+psql:files/sql/ruc1.sql:91139: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(749391).
+psql:files/sql/ruc1.sql:108023: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(934631).
+psql:files/sql/ruc1.sql:108578: ERROR:  llave duplicada viola restricción de unicidad «contribuyente_pkey»
+DETALLE:  Ya existe la llave (ruc)=(954691).
